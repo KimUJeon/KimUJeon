@@ -8,7 +8,7 @@ __Welcome to KimUJeon's ARK__ <div align=center>[![Hits](https://hits.seeyoufarm
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KimUJeon&show_icons=true" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KimUJeon&show_icons=true&theme=tokyonight" align="center">
 </div>
 
 
