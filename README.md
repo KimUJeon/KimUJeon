@@ -4,7 +4,7 @@ __Welcome to KimUJeon's ARK__ <div align=center>[![Hits](https://hits.seeyoufarm
 - 🌱 I’m currently learning Python3, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I am at 302 [BOJ Rank]
+- I am at 297 [BOJ Rank]
 
 
 <div align="center">
