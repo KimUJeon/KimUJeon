@@ -4,7 +4,7 @@ __Welcome to KimUJeon's ARK__ <div align=center>[![Hits](https://hits.seeyoufarm
 - 🌱 I’m currently learning Python3, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I am at 236 [BOJ Rank Of School] and SILVER IV rank! PRO.78 [2021.06.09]
+- I am at 231 [BOJ Rank Of School] and SILVER IV rank! PRO.83 [2021.06.11]
 
 
 <div align="center">
