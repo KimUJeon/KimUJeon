@@ -4,14 +4,14 @@ __Welcome to KimUJeon's ARK__ <div align=center>[![Hits](https://hits.seeyoufarm
 - 🌱 I’m currently learning Python3, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I am at 231 [BOJ Rank Of School] and SILVER IV rank! PRO.83 [2021.06.11]
+- I am at 227 [BOJ Rank Of School] and SILVER IV rank! PRO.87 [2021.06.11]
 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KimUJeon&show_icons=true&theme=tokyonight" align="center">
 </div>
 
-
+algosaja
 <!---
 KimUJeon/KimUJeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
