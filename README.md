@@ -4,7 +4,7 @@ __Welcome to KimUJeon's ARK__ <div align=center>[![Hits](https://hits.seeyoufarm
 - 🌱 I’m currently learning Python3, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I am at 227 [BOJ Rank Of School] and SILVER IV rank! PRO.87 [2021.06.11]
+- I am at 223 [BOJ Rank Of School] and SILVER IV rank! PRO.90 [2021.06.15]
 
 
 <div align="center">
@@ -12,6 +12,8 @@ __Welcome to KimUJeon's ARK__ <div align=center>[![Hits](https://hits.seeyoufarm
 </div>
 
 algosaja
+
+[알고리즘 공부법](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 <!---
 KimUJeon/KimUJeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
